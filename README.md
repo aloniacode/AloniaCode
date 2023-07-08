@@ -1,6 +1,6 @@
 ### Hi!
 
-- 🥰 Welcome to my profile page,nice to meet you!!!
-- 💻 I'm currently working with React/Vue/Next.js/TailwindCSS.Of Course, i also enjoy using node.js framework to build backend services for my web applications.
+- 🥰 Welcome to my home page,nice to meet you!!!
+- 💻 I'm currently using React/Vue/Next.js/TailwindCSS/Nest.js/MongoDB/MySQL.
 - 🖱️ Welcome to the website and sincerely accept your relevant comments : 👉[codercoin](https://codercoin.top).
 
