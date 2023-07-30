@@ -5,10 +5,6 @@
 - 🖱️ Welcome to the website and sincerely accept your relevant comments : 👉[codercoin](https://codercoin.top).
 
 ## Stats
-![Placeholder Text](https://github-readme-stats.vercel.app/api?username=coderlcb&count_private=true&show_icons=true&theme=react)
+![Placeholder Text](https://github-readme-stats.vercel.app/api?username=coderlcb&count_private=true&show_icons=true&theme=vue)
 ## Program Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderlcb&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-## Repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderlcb&repo=lazyManWeekly&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderlcb&repo=NoteBook&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderlcb&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
