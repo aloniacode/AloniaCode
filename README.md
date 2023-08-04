@@ -1,7 +1,7 @@
-### Hi!
+<h1 align="center">Hi!😘</h1>
 
 - 🥰 Welcome to my home page,nice to meet you!!!
-- 💻 I'm currently using React/Vue/Next.js/TailwindCSS/Nest.js/MongoDB/MySQL.
+- 💻 I'm currently using React/Vue/Next.js/TailwindCSS/Nest.js/MongoDB/Python/MySQL.
 - 🖱️ Welcome to the website and sincerely accept your relevant comments : 👉[codercoin](https://codercoin.vercel.app).
 
 ## Stats
