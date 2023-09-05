@@ -1,7 +1,7 @@
-<h1 align="center">Hey! It's good to see you.😘</h1>
+<h1 align="center">Hey! It's Codercoin.</h1>
 
-- 💻 I'm currently using React/Vue/Next.js/TailwindCSS/Nest.js/MongoDB/Python/MySQL.
-- 🖱️ Welcome to the website and sincerely accept your relevant comments : 👉[codercoin](https://codercoin.vercel.app).
+- 👨‍💻 A Front-end developer.
+- 💻 Blog:[codercoin](https://codercoin.vercel.app).
 
 ## Stats
 ![Placeholder Text](https://github-readme-stats.vercel.app/api?username=codercoin98&count_private=true&show_icons=true&hide_title=true&hide_rank=true&theme=vue)
