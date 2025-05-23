@@ -12,5 +12,5 @@
 </p>
 
 **Contact Me**
-
-[🏠Profile](https://time1smoney.vercel.app) | [📖Blog Website](https://blog-codercoin.vercel.app)
+- 📮 alonia@qq.com | aloniacode@gmail.com
+- 🏠 [Blog](https://blog-codercoin.vercel.app)
