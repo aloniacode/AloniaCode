@@ -1,7 +1,7 @@
 <h1 align="center">Hi There. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
 - I'm a full-stack web developer and also a learner of computer technology. 
-- Coding , Playing and Travel around the world.
+- Reflect, develop and continuously improve.
 <!--tech stack icons-->
 **My Stack**
 
